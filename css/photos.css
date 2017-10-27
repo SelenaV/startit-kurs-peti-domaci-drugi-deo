@@ -1,0 +1,47 @@
+.container {
+	display: block;
+	margin:0 auto;
+	margin-top: 30px;
+	max-width:1050px;
+	height:auto;
+	text-align: center;
+	background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/02/Dry-Old-Wood-Texture-Background.jpg'); 
+	border-radius: 5px;
+}
+.types {
+	display:inline-block;
+	max-width:330px;
+	height:auto;
+	margin:15px 10px 15px 10px;
+	background:#fff;
+	padding:20px 20px 20px 20px;
+}
+img {
+	max-width: 275px;
+	height: auto;
+	border-radius: 10px;
+	display: :block;
+	margin: 0 auto;
+}
+.circle {
+	max-width:80px;
+	height:80px;
+	margin:0 auto;
+	margin-top:-30px;
+	text-align: center;
+	border-radius: 50px;
+	background-color:#fff;
+	position:relative;
+}
+i {
+	color:#b7ff60;
+	position:relative;
+	padding:20px;
+}
+h1 {
+	margin: 0px;
+	font-family: 'Source Code Pro', monospace;
+    font-size: 28px;
+    color:#af6b33;
+    text-align: center;
+}
